@@ -7,7 +7,6 @@ function App() {
         dev branch Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
         hic tempora nemo aliquid ad, alias nihil minima saepe laboriosam
         provident soluta delectus aspernatur vel quos, cupiditate numquam
-        adipisci quae laudantium!
       </h2>
     </div>
   );
